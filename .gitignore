@@ -1,0 +1,11 @@
+# Túnel / scripts locais
+*.bat
+*.log
+
+# VS Code
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
