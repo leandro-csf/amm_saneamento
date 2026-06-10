@@ -9,10 +9,10 @@
 window.SITE_CONFIG = {
   // Destino principal da intermediação. Enquanto não definido,
   // mantenha "#" — o botão rola suavemente para a seção de contato.
-  ctaUrl: "#",
+  ctaUrl: "http://ipgcinfra.grupoarandu.org.br/cadastro",
 
   // Texto exibido nos botões de chamada para ação.
-  ctaLabel: "CADASTRE-SE EM BREVE",
+  ctaLabel: "Quero estruturar projetos no meu município",
 
   // WhatsApp opcional. Use apenas dígitos com DDI/DDD (ex.: "5531999999999").
   // Deixe vazio ("") para ocultar o botão de WhatsApp.
