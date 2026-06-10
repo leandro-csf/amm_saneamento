@@ -12,7 +12,7 @@ window.SITE_CONFIG = {
   ctaUrl: "#",
 
   // Texto exibido nos botões de chamada para ação.
-  ctaLabel: "Quero estruturar projetos no meu município",
+  ctaLabel: "CADASTRE-SE EM BREVE",
 
   // WhatsApp opcional. Use apenas dígitos com DDI/DDD (ex.: "5531999999999").
   // Deixe vazio ("") para ocultar o botão de WhatsApp.
