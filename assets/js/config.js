@@ -9,7 +9,7 @@
 window.SITE_CONFIG = {
   // Destino principal da intermediação. Enquanto não definido,
   // mantenha "#" — o botão rola suavemente para a seção de contato.
-  ctaUrl: "http://ipgcinfra.grupoarandu.org.br/cadastro",
+  ctaUrl: "http://ipgcinfra.grupoarandu.org.br/cadastro/cadastro",
 
   // Texto exibido nos botões de chamada para ação.
   ctaLabel: "Quero estruturar projetos no meu município",
